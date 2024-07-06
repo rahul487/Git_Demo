@@ -3,3 +3,5 @@ Hello world!!
 take input from the user
 
 submit data to the database
+
+Create an avatar for user
